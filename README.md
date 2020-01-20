@@ -1,6 +1,6 @@
 # .github
 
-*Default community health files for Hexed Bits projects*
+*Default [community health files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) for all Hexed Bits open-source projects*
 
 ## README template
 
