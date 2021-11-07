@@ -16,5 +16,5 @@ Interested in making contributions to this project? Please review the guides bel
 - [Support and Help](https://github.com/hexedbits/.github/blob/main/SUPPORT.md)
 - [Security Policy](https://github.com/hexedbits/.github/blob/main/SECURITY.md)
 
-Also, consider [sponsoring this project](https://www.jessesquires.com/sponsor/) or [buying our apps](https://www.hexedbits.com)! ✌️
+Also consider [sponsoring this project](https://github.com/sponsors/jessesquires) or [buying our apps](https://www.hexedbits.com)! ✌️
 ```
